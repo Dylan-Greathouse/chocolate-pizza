@@ -1,7 +1,51 @@
 h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
+}
+h2 {
+    color: gray;
+    font-size: 10px;
+}
+/* CLASSES */
+.print-section {
+    color:gray;
+    font-size: 10px;
+    float:right;    
+}
+
+.iconz .icon-section img{
+    float:right;
+    margin-right: 1px;
+    display: inline-block;
+}
+
+.iconz .icon-section2 img {
+    display:inline-block;
+}
+
+ .icon-section2 {
+    float:right;
+    margin-left: 10px;
+}
+
+.iconz {
+    display: flex;
+    float:right;
+
+}
+
+.print-img {
+    float:right;
+}
+
+.print-txt {
+    float:right;
 }
 
 .ingredients {
     background-image: url('../assets/list-bg.png');
+}
+
+.pizza {
+    width:600px;
+    margin:10px;
 }
