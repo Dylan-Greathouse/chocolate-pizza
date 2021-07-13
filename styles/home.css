@@ -56,7 +56,12 @@ footer img {
 .print-section {
     color:gray;
     font-size: 10px;
-    float:right;    
+    float:right; 
+    display: flex;
+}
+.print-section img {
+    width:30px;
+    max-height: 30px;
 }
 
 .iconz .icon-section img{
